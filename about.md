@@ -6,8 +6,8 @@ A lifelong Liverpool Football Club supporter, and Robbie Fowler is my football h
 
 ## Contacts
 
-###Charlie C. F. Lok
-**Postdoc Fellow**
-*School of Energy and Environment
-City University of Hong Kong*
+###Charlie C. F. Lok  
+**Postdoc Fellow**  
+*School of Energy and Environment  
+City University of Hong Kong*  
 Hong Kong
