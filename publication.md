@@ -17,7 +17,6 @@
 [Downstream Development During the Extratropical Transition of Tropical Cyclones: Observational Evidence and Influence on Storm Structure](http://tcrr.typhoon.org.cn/EN/abstract/abstract5.shtml)  
 *Tropical Cyclone Research and Review*, **1**(4): 430-447
 
-
 ## Theses
 1. **Doctor of Philosophy Thesis** (2018)  
 [Tropical Cyclone Landfall in South China: Seasonal Prediction and Climate Change Projection](https://scholars.cityu.edu.hk/en/theses/theses(f246853c-93bf-4772-a05c-75b850bf7e8b).html)  
