@@ -12,7 +12,7 @@ Clayton, Victoria, Australia
 Sha Tin, New Territories, Hong Kong
 
 ## Employments
-1. **Researcher** (2017-)
+1. **Researcher** (2017-)  
 *City University of Hong Kong*  
 Kowloon Tong, Kowloon, Hong Kong
 1. **Researcher** (2011-2013)  
