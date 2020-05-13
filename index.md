@@ -4,4 +4,4 @@ This is the personal page of Charlie C. F. Lok, a postdoctoral fellow at the Cit
 
 You may find out my researches in atmospheric science here, and a little information about myself in the following pages:
 
-[About](about) | [Resume](resume) | [Publications](publication)
+[About](about) | [Resume](resume) | [Publications](publication) | [Conferences](conference)
