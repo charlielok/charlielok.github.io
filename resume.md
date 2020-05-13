@@ -12,10 +12,13 @@ Clayton, Victoria, Australia
 Sha Tin, New Territories, Hong Kong
 
 ## Employments
-1. Researcher
+1. **Researcher** (2017-)
+*City University of Hong Kong*  
+Kowloon Tong, Kowloon, Hong Kong
+1. **Researcher** (2011-2013)  
 *The Centre for Australian Weather and Climate Research  
 Bureau of Meteorology*  
 Melbourne, Victoria, Australia
-1. Summer Placement  
+1. **Summer Placement** (2008)  
 *Hong Kong Observatory*  
 Tsim Sha Tsui, Kowloon, Hong Kong
