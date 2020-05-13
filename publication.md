@@ -7,8 +7,7 @@
 Monash University*  
 Clayton, Victoria, Australia
 1. **Bachelor of Science (Honour) Final Year Project** (2009)  
-Studies on Shallow Cold Surges  
-[Summer Placement Report (2008)](http://www.phy.cuhk.edu.hk/hko/08/report_LokChonFai.pdf)  
+Studies on Shallow Cold Surges ([Hong Kong Observatory Summer Placement Report (2008)](http://www.phy.cuhk.edu.hk/hko/08/report_LokChonFai.pdf))  
 *Department of Physics  
 The Chinese University of Hong Kong*  
 Sha Tin, New Territories, Hong Kong
