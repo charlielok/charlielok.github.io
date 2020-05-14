@@ -1,7 +1,7 @@
 # Publication
 
 ## Refereed Articles
-1. **Charlie C. F. Lok, Johnny C. L. Chan** (2018)  
+1. **__Charlie C. F. Lok__, Johnny C. L. Chan** (2018)  
 [Changes of tropical cyclone landfalls in South China throughout the twenty-first century](http://link.springer.com/article/10.1007/s00382-017-4023-0)  
 *Climate Dynamics*, **51**(7-8): 2467–248
 1. **Charlie C. F. Lok, Johnny C. L. Chan** (2018)  
