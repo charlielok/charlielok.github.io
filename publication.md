@@ -1,6 +1,9 @@
 # Publication
 
 ## Refereed Articles
+1. **Charlie C. F. Lok**, Johnny C. L. Chan, and Ralf Toumi (2021)  
+[Tropical cyclones near landfall can induce their own intensification through feedbacks on radiative forcing](https://www.nature.com/articles/s43247-021-00259-8)  
+*Communications Earth & Environment*, **2**(184)
 1. **Charlie C. F. Lok**, Johnny C. L. Chan (2018)  
 [Changes of tropical cyclone landfalls in South China throughout the twenty-first century](http://link.springer.com/article/10.1007/s00382-017-4023-0)  
 *Climate Dynamics*, **51**(7-8): 2467–248
